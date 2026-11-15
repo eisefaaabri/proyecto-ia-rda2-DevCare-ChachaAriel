@@ -1,0 +1,14 @@
+# Entorno virtual y cachés de Python
+.venv/
+__pycache__/
+*.py[cod]
+.ipynb_checkpoints/
+
+# Archivos temporales y fuentes editables de Word
+~$*.docx
+informe/Informe_App.docx
+
+# Documentos de trabajo interno (solo se sube MANUAL_INSTALACION.md)
+docs/DIAGNOSTICO_Y_PLAN.md
+docs/GUION_DEMO.md
+docs/CUESTIONARIO_SUSTENTACION.md
