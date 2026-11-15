@@ -46,9 +46,6 @@ PROYECTORDA2/
 │   └── ai_dev_productivity.csv       # Dataset original (500 filas, 9 columnas)
 ├── docs/
 │   └── MANUAL_INSTALACION.md         # Guía detallada de instalación y resolución de problemas
-├── informe/
-│   ├── Informe_App.pdf               # Informe técnico de la aplicación
-│   └── capturas/                     # Capturas de pantalla de los casos de prueba
 ├── models/
 │   └── modelo_clustering.pkl         # Artefacto serializado (Pipeline, PCA 2D, detector DBSCAN y metadatos)
 ├── notebooks/

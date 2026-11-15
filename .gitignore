@@ -4,9 +4,8 @@ __pycache__/
 *.py[cod]
 .ipynb_checkpoints/
 
-# Archivos temporales y fuentes editables de Word
-~$*.docx
-informe/Informe_App.docx
+# Carpeta de informe (solo local)
+informe/
 
 # Documentos de trabajo interno (solo se sube MANUAL_INSTALACION.md)
 docs/DIAGNOSTICO_Y_PLAN.md
